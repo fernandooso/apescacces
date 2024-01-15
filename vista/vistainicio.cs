@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace apescacces
+namespace apescacces.vista
 {
-    public partial class Form1 : Form
+    public partial class vistainicio : Form
     {
-        public Form1()
+        public vistainicio()
         {
             InitializeComponent();
         }
